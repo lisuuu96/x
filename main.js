@@ -19,3 +19,4 @@ function equation (num1,num2){
     }
     
 }
+equation(7,9)
