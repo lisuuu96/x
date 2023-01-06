@@ -13,7 +13,7 @@ function equation (num1,num2){
     }
     let multiply = num1 * num2;
     if(multiply>0){
-    console.log('wynik mnozenia wynosi x');
+    console.log('wynik mnozenia wynosi ' + multiply);
     }else{
         console.log('Wynik jest nieprawidlowy')
     }
